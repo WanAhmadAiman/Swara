@@ -1,4 +1,5 @@
 # Proposal
+# Crowdsourcing For Words (Bahasa Malaysia)
 
 ## Team Member
 1. Ahmad Hafidz Bin Muhd Mawardi  
@@ -12,8 +13,6 @@ We plan to create a website to accommodate our projects need and to ease others 
 
 These voice samples will then be stored in our database, created using Django, where the administrators will be able access the data and also share the data to whoever requests it. 
 
-## System Architecture
-![architecture failed to load](./Image File/System Architecture.jpeg)
+---
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/Image File/System Architecture.jpeg)
-Image File/System Architecture.jpeg
+## System Architecture  
