@@ -6,6 +6,8 @@
 2. Syahmirullah Bin Sulaiman  
 3. Wan Ahmad Aiman Bin Wan Mohamad Noor
 
+---
+
 ## Project Overview
 Our project’s main aim is to collect voice samples of certain words spoken in Malay, mainly for the use of speech recognition system development. We decided to achieve this aim through crowd-sourcing, enabling us to obtain a variety of samples with different voices, accents, pitch and more. 
 
@@ -16,3 +18,14 @@ These voice samples will then be stored in our database, created using Django, w
 ---
 
 ## System Architecture  
+![architecture failed to load](./System_Architecture.PNG)
+
+---
+
+## Entity-Relationship Diagram
+![Entity-Relationship Diagram failed to load](./Entity_Relationship_Diagram.jpg)
+
+---
+
+## Class Diagram
+![Class Diagram failed to load](./Class_Diagram.jpeg)
