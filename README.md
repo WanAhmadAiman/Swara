@@ -1,6 +1,6 @@
 # Swara
 Software Engineering(SKEL4213) Project  
-(**Crowdsourcing**)
+(**Crowdsourcing For Words (Bahasa Malaysia)**)
 
 ---
 
