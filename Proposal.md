@@ -15,3 +15,5 @@ These voice samples will then be stored in our database, created using Django, w
 ## System Architecture
 ![architecture failed to load](./Image File/System Architecture.jpeg)
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/Image File/System Architecture.jpeg)
+Image File/System Architecture.jpeg
